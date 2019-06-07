@@ -1,4 +1,4 @@
-# Things they don't teach you well in Photography
+# reFrame: a primer on transparent displays
 
 
 ## Welcome to the world of Alternative Displays!
