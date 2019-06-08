@@ -3,7 +3,7 @@
 
 ## Welcome to the world of Alternative Displays!
 
-Learn the potential of transparent displays as an artistic medium! Transparent displays have been around for long time, mostly used practically in Military in Heads Up Displays (HUD) and Holographic Weapon Sights to augment important information over the physical world. In the civilian world however these displays lose their augmentation capabilities. In the commercial scene they are mostly used as eye-candy for product display, and in the art scene you see them used from time to time in installations or performances.
+Learn the potential of transparent displays as an artistic medium! Transparent displays have been around for a long time, mostly used practically in Military in Heads Up Displays (HUD) and Holographic Weapon Sights to augment important information over the physical world. In the civilian world however these displays lose their augmentation capabilities. In the commercial scene they are mostly used as eye-candy for product display, and in the art scene you see them used from time to time in installations or performances.
 
 reFrame is for the most part a methodology to turn transparent displays into AR windows that tailor information to each user. It was developed as part of my thesis here at ITP, and i'm very excited to teach you all about it. By the end of the class you will have a new interactive medium on your hands with a lot of potential to discover. The last part of the class would be dedicated to discussion of how it might be applied to various industries.
 
